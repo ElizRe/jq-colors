@@ -1,4 +1,3 @@
-// good luck !
 
 $(document).ready(function(){
 
